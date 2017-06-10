@@ -11,6 +11,6 @@ Nothing... Just for fun
 3. **Defining a fool-proof `protocol` or `interfaces` for interconnecting various parts of the application is the basic problem.**
 2. **Technologies will come and go. But the `protocol` will remain **
 
-## Philosophy
+### Philosophy
 1. **Money is nothing but a `box` used to pack our `Hard-work`**
   - Size of the box doesn't matters really but the weight of content does.
