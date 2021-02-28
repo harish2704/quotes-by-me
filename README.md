@@ -7,7 +7,7 @@ Nothing... Just for fun
 
 1. **Compilations are the result of bad design decisions**
     - Before trying to find a solution, turn back and check your design.
-2. **Software development is nothing the but process of compiling an `Idea` or `concept` described in a high-level language to low-level language generally known as `source-code`**
+2. **Software development is nothing but the process of compiling an `Idea` or `concept` described in a high-level language to low-level language generally known as `source-code`**
     - Naturally, Idea should be well described for producing a good product. Because, dirty source-code will ofter cause bug in the application.
 3. **Defining a fool-proof `protocol` or `interfaces` for interconnecting various parts of the application is the basic problem.**
 2. **Technologies will come and go. But the `protocol` will remain **
